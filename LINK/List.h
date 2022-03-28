@@ -1,5 +1,5 @@
-#include <iostream>
 
+#define _List_h_
 template <typename data>
 class List
 {

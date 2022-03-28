@@ -1,0 +1,6 @@
+{
+    "code-runner.executorMap": {
+        "c": "cd $dir && gcc *.c -fexec-charset=GBK -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+        "cpp": "cd $dir && g++ *.cpp -fexec-charset=GBK -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+    }
+}
