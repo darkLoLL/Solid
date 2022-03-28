@@ -1,3 +1,4 @@
+//仍然有很多不合理的地方
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
