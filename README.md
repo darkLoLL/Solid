@@ -1,1 +1,2 @@
-该分支存放部分系统设计代码
+Store code written in C and C++.
+This made by 2607749572@qq.com.
